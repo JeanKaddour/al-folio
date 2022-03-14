@@ -16,8 +16,8 @@ social: true  # includes social icons at the bottom of the page
 
 Hello, thanks for stepping by, it's great to have you here! :)
 
-I am a first-year PhD student in the <a href="https://www.ucl.ac.uk/ai-centre/study/cdt-foundational-ai/current-student-profiles">Foundational AI CDT</a> at University College London, working with <a href="https://www.ucl.ac.uk/statistics/people/ricardosilva">Ricardo Silva</a> and <a href="https://mkusner.github.io/">Matt Kusner</a>. Previously, I obtained a MSc. in Advanced Computing at Imperial College London. 
+I am a PhD student in the <a href="https://www.ucl.ac.uk/ai-centre/study/cdt-foundational-ai/current-student-profiles">Foundational AI CDT</a> at University College London, working with <a href="https://www.ucl.ac.uk/statistics/people/ricardosilva">Ricardo Silva</a> and <a href="https://mkusner.github.io/">Matt Kusner</a>. Previously, I obtained a MSc. in Advanced Computing at Imperial College London. 
 
-My research interests include Causal Inference and Machine Learning. 
+My research interests revolve around Deep Learning and Causality. 
 
 If you are interested in my work or would like to chat about common interests, potential collaboration, etc., please feel free to get in touch!
