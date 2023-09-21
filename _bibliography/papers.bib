@@ -18,22 +18,22 @@
 
 
 
-@misc{kaddourNoTrainNo2023a,
+@inproceedings{kaddourNoTrainNo2023a,
 	title = {No {Train} {No} {Gain}: {Revisiting} {Efficient} {Training} {Algorithms} {For} {Transformer}-based {Language} {Models}},
 	shorttitle = {No {Train} {No} {Gain}},
 	url = {http://arxiv.org/abs/2307.06440},
 	doi = {10.48550/arXiv.2307.06440},
 	abstract = {The computation necessary for training Transformer-based language models has skyrocketed in recent years. This trend has motivated research on efficient training algorithms designed to improve training, validation, and downstream performance faster than standard training. In this work, we revisit three categories of such algorithms: dynamic architectures (layer stacking, layer dropping), batch selection (selective backprop, RHO loss), and efficient optimizers (Lion, Sophia). When pre-training BERT and T5 with a fixed computation budget using such methods, we find that their training, validation, and downstream gains vanish compared to a baseline with a fully-decayed learning rate. We define an evaluation protocol that enables computation to be done on arbitrary machines by mapping all computation time to a reference machine which we call reference system time. We discuss the limitations of our proposed protocol and release our code to encourage rigorous research in efficient training procedures: https://github.com/JeanKaddour/NoTrainNoGain.},
 	urldate = {2023-09-06},
-	publisher = {arXiv},
 	author = {Kaddour, Jean and Key, Oscar and Nawrot, Piotr and Minervini, Pasquale and Kusner, Matt J.},
 	month = jul,
 	year = {2023},
-	note = {arXiv:2307.06440 [cs]},
 	keywords = {Computer Science - Artificial Intelligence, Computer Science - Computation and Language, Computer Science - Machine Learning, Computer Science - Neural and Evolutionary Computing, Computer Science - Performance},
   pdf={https://arxiv.org/pdf/2307.06440.pdf},
   selected={true},
   code={https://github.com/jeankaddour/notrainnogain},
+  booktitle={Advances in Neural Information Processing Systems},
+editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
 }
 
 
